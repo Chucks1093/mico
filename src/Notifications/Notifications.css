@@ -1,0 +1,21 @@
+/* Notifications.css */
+.notifications-section {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .notification-item {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .notification-item span {
+    margin-left: 10px;
+  }
+  
